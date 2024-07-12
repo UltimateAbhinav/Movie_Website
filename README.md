@@ -21,8 +21,8 @@ This is the front-end part of the Movie Ticket Booking Website to provide a seam
 ## User Interface
 
 ![App Screenshot](Documentation/s0.jpg)
-![App Screenshot](Documentation/s1.jpg)
-![App Screenshot](Documentation/s1_dark.jpg)
+![App Screenshot](Documentation/s0.jpg)
+![App Screenshot](Documentation/s13.jpg)
 ![App Screenshot](Documentation/s2.jpg)
 ![App Screenshot](Documentation/s3.jpg)
 ![App Screenshot](Documentation/s4.jpg)
