@@ -25,7 +25,6 @@ This is the front-end part of the Movie Ticket Booking Website to provide a seam
 ![App Screenshot](Documentation/s13.jpg)
 ![App Screenshot](Documentation/s2.jpg)
 ![App Screenshot](Documentation/s3.jpg)
-![App Screenshot](Documentation/s4.jpg)
 ![App Screenshot](Documentation/s5.jpg)
 ![App Screenshot](Documentation/s6.jpg)
 ![App Screenshot](Documentation/s7.jpg)
@@ -34,6 +33,7 @@ This is the front-end part of the Movie Ticket Booking Website to provide a seam
 ![App Screenshot](Documentation/s10.jpg)
 ![App Screenshot](Documentation/s11.jpg)
 ![App Screenshot](Documentation/s12.jpg)
+
 
 
 
